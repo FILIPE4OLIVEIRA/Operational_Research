@@ -1,3 +1,5 @@
 # Operational_Research
 
-Apresenta algoritmos para solução de problemas de Pesquisa Operacional
+Os arquivos acima execultam um código que resolve um problema de Programação Linear Inteira pelo método de Branch and Bound.
+
+Para utilização do código basta baixar todos os arquivos e excutar o arquivo Main.m
