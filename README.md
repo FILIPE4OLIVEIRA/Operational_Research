@@ -9,8 +9,9 @@ Dado o problema de Programação Linear:<br>
 ![Programação_Linear](https://github.com/FILIPE4OLIVEIRA/FILIPE4REPOSITORY/blob/master/Imagens/Programação_Linear.png).<br>
 
 Executa-se código **Programação_Linear**.<br> 
-Através do Método **Simplex** para obtém-se uma solução contínua.<br>
-O problema:<br>
+Através do Método **Simplex** para obtém-se uma solução contínua.<br><br>
+
+Exemplo:<br>
 
 Minimizar Z = 8x1 + 5x2 <br>
 
@@ -32,8 +33,9 @@ Dado o problema de Programação Linear Inteira:<br>
 ![Programação_Linear_Inteira](https://github.com/FILIPE4OLIVEIRA/FILIPE4REPOSITORY/blob/master/Imagens/Programação_Linear_Inteira.png).<br>
 
 Executa-se código **Programação_Linear_Inteira**.<br> 
-Através do Método **Branch and Bound** para obtém-se uma solução inteira.<br>
-O problema:<br>
+Através do Método **Branch and Bound** para obtém-se uma solução inteira.<br><br>
+
+Exemplo:<br>
 
 Maximizar Z = 5x1 + x2 <br>
 
@@ -56,8 +58,9 @@ Dado o problema de Programação Linear Inteira Binária:<br>
 ![Programação_Linear_Inteira_Binária](https://github.com/FILIPE4OLIVEIRA/FILIPE4REPOSITORY/blob/master/Imagens/Programação_Linear_Inteira_Binária.png).<br>
 
 Executa-se código **Programação_Linear_Inteira_Binária**.<br> 
-Através do Método **Branch and Bound** para obtém-se uma solução inteira pertencente ao conjunto **S = {0,1}**.<br>
-O problema:<br>
+Através do Método **Branch and Bound** para obtém-se uma solução inteira pertencente ao conjunto **S = {0,1}**.<br><br>
+
+Exemplo:<br>
 
 Maximizar Z = 2x1 - x2 + 5x3 - 3x4 + 4x5 <br>
 
