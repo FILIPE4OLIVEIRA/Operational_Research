@@ -1,6 +1,5 @@
 # Operational_Research
-Este é um repositório com métodos numéricos simples para iniciantes em <br> 
-programação Python e Pesquisa Operacional.<br>
+Este é um repositório com métodos numéricos simples para iniciantes em programação Python e Pesquisa Operacional. <br>
 Utilizam-se os pacotes GEKKO e GUROBI.<br>
 
 ## Método Numérico para Programação Linear:<br>
